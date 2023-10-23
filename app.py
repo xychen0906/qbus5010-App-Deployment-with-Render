@@ -45,7 +45,7 @@ def make_scatter_plot():
     return fig
 
 app.layout = html.Div(children=[
-    html.H1(children = "Restaurant Tips Exploratory Data Analysis", style={
+    html.H1(children = "Exploratory Data Analysis on Restaurant Tips", style={
         "textAlign": "center",
         "font-size": "70px",
         "font-weight": "600",
